@@ -1,0 +1,9 @@
+name: cbl_abnormal_close_issue
+publish_to: none
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  cbl: ^3.2.1
+  cbl_dart: ^3.1.0
